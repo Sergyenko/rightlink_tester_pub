@@ -1,0 +1,15 @@
+= DESCRIPTION:
+
+RightLink test suite.  
+
+Functional test suite for the the RightLink project. Public part.
+
+http://wiki.github.com/rightscale/foo/
+
+= REQUIREMENTS:
+
+= ATTRIBUTES: 
+none
+
+= USAGE:
+
