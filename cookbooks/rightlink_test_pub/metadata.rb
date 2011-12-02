@@ -5,4 +5,4 @@ description      "Installs/Configures rightlink_test_pub"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.rdoc'))
 version          "0.1.1"
 
-recipe "RightlinkTestPub::common","Simple test."
+recipe "rightlink_test_pub::common","Simple test."
