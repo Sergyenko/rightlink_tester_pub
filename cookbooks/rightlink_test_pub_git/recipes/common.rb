@@ -1,7 +1,7 @@
 iterations = 100
 counter = 0
 
-Chef::Log.info "rightlink_test_pub::common"
+Chef::Log.info "rightlink_test_pub_git::common"
 
 loop do
     break if counter == iterations

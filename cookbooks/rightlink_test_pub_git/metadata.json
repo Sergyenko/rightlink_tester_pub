@@ -5,7 +5,7 @@
   "providing": {
 
   },
-  "description": "Installs\/Configures rightlink_test_pub",
+  "description": "Installs\/Configures rightlink_test_pub_git",
   "platforms": {
 
   },
@@ -24,13 +24,13 @@
   },
   "long_description": "= DESCRIPTION:\n\nRightLink test suite.  \n\nFunctional test suite for the the RightLink project.\n\nhttp:\/\/wiki.github.com\/rightscale\/right_link\/\n\n= REQUIREMENTS:\n\n= ATTRIBUTES: \nnone\n\n= USAGE:\n\n",
   "recipes": {
-    "rightlink_test_pub::common": "Simple test."
+    "rightlink_test_pub_git::common": "Simple test."
   },
   "recommendations": {
 
   },
   "maintainer": "RightScale, Inc.",
-  "name": "rightlink_test_pub",
+  "name": "rightlink_test_pub_git",
   "suggestions": {
 
   },
